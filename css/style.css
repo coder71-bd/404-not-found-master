@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.heading_txt {
+    position: absolute;
+    left: 77px;
+    top: 40px;
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: -0.08em;
+    line-height: 25px;
+}
+.image {
+    position: absolute;
+    top: 265px;
+    left: 77px;
+    width: 539.22px;
+    height: 414.25px;
+}
+.content {
+    position: absolute;
+    left: 735px;
+    top: 265px;
+}
+.txt_one {
+    font-family: 'Space Mono', monospace;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+}
