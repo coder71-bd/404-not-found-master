@@ -110,6 +110,7 @@ main {
     .footer {
         font-size: 14px;
         letter-spacing: 0.001em;
+        padding-bottom: 10px;
     }
     .footer a {
         letter-spacing: 0.001em;
