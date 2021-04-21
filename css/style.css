@@ -107,6 +107,15 @@ main {
     .image img {
         width: 100%;
     }
+    .footer {
+        font-size: 14px;
+        letter-spacing: 0.001em;
+    }
+    .footer a {
+        letter-spacing: 0.001em;
+        padding: 0 0.5px;
+    }
+
 }
 /* less than 796px and greater than 600px */
 @media (min-width: 600px) and (max-width: 796px) {
