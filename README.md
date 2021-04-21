@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-main.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/coder71-bd/404-not-found-master">
       Solution
     </a>
     <span> | </span>
@@ -42,12 +42,12 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Built With
 
-- [Semantic HTML5 markup]
-- [CSS custom properties]
-- [CSS flexbox]
-- [CSS Media Queries]
-- [CSS animation]
-- [Mobile-first workflow]
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS flexbox
+- CSS Media Queries
+- CSS animation
+- Mobile-first workflow
 
 ## Features
 
